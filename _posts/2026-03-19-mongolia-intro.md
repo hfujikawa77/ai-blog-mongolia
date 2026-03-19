@@ -118,16 +118,14 @@ Q: モンゴルの面積は日本の約何倍でしょう？
 
 ## 🎬 Video of the Day
 
-## 🎬 Video of the Day
-
 ### 1. 【モンゴルの大草原・遊牧民の暮らし】
-https://www.youtube.com/watch?v=grF3eboqDGQ
+[▶ 動画を見る](https://www.youtube.com/watch?v=grF3eboqDGQ)
 
 ### 2. 【地図で見るモンゴル！どんな国？】
-https://www.youtube.com/watch?v=3XG85Qd4xGo
+[▶ 動画を見る](https://www.youtube.com/watch?v=3XG85Qd4xGo)
 
 ### 3. 【モンゴルの四季・絶景集】
-https://www.youtube.com/watch?v=WTgLpHchwCw
+[▶ 動画を見る](https://www.youtube.com/watch?v=WTgLpHchwCw)
 
 ---
 
