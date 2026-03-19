@@ -6,7 +6,7 @@ date: 2026-03-19
 <img src="/ai-blog-mongolia/assets/2026-03-19-comic.jpg" alt="モンゴルの大草原と遊牧民のゲル" width="350" />
 
 <audio controls>
-  <source src="/ai-blog-mongolia/assets/2026-03-19-sound.wav" type="audio/wav">
+  <source src="/ai-blog-mongolia/assets/2026-03-19-sound.mp3" type="audio/mp3">
   お使いのブラウザはオーディオ要素をサポートしていません。
 </audio>
 
