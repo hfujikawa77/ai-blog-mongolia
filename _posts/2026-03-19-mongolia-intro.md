@@ -118,20 +118,16 @@ Q: モンゴルの面積は日本の約何倍でしょう？
 
 ## 🎬 Video of the Day
 
-### 1. 【草原で育つ！遊牧民の子どもの暮らし】
-ゴビ砂漠の遊牧民家族に育つ少女オトゴの日常を追ったドキュメンタリー（DW Documentary・英語）
+## 🎬 Video of the Day
 
-[▶ 動画を見る](https://www.youtube.com/watch?v=Kzo6wNPkDSk)
+### 1. 【モンゴルの大草原・遊牧民の暮らし】
+https://www.youtube.com/watch?v=grF3eboqDGQ
 
-### 2. 【モンゴルってどんな国？ドキュメンタリー】
-モンゴルの草原・遊牧民・文化を幅広く紹介した英語ドキュメンタリー（New Atlantis、IMDb 8.1）
+### 2. 【地図で見るモンゴル！どんな国？】
+https://www.youtube.com/watch?v=3XG85Qd4xGo
 
-[▶ 動画を見る](https://www.youtube.com/watch?v=ZeBnyZ12_OQ)
-
-### 3. 【モンゴルを旅しよう！絶景の大地】
-草原・砂漠・山岳地帯を巡るモンゴル旅の映像集（Adventure Calls）
-
-[▶ 動画を見る](https://www.youtube.com/watch?v=WBLqkjiEDcE)
+### 3. 【モンゴルの四季・絶景集】
+https://www.youtube.com/watch?v=WTgLpHchwCw
 
 ---
 
