@@ -20,6 +20,6 @@
 ご家族でぜひお楽しみください！
 
 ▼ブログ記事はこちら
-https://hfujikawa77.github.io/ai-blog-mongolia/
+https://hfujikawa77.github.io/ai-blog-mongolia/2026/03/19/mongolia-intro.html
 
 #モンゴル #Mongolia #モンゴル旅行 #子育て #親子で楽しむ #海外旅行

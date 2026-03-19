@@ -14,4 +14,4 @@
 モンゴル語のミニコーナー、3択クイズ、関連動画もついています。
 
 ブログはこちら
-https://hfujikawa77.github.io/ai-blog-mongolia/
+https://hfujikawa77.github.io/ai-blog-mongolia/2026/03/20/ger-camp.html

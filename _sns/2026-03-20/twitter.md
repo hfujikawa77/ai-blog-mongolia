@@ -22,7 +22,7 @@
 投稿2
 
 記事はこちら
-https://hfujikawa77.github.io/ai-blog-mongolia/
+https://hfujikawa77.github.io/ai-blog-mongolia/2026/03/20/ger-camp.html
 
 モンゴル語の「Гэр（ゲル）」の発音リンクと、ゲルキャンプの動画も入れました。
 次回は草原で馬に乗る回です。
