@@ -6,7 +6,7 @@ date: 2026-03-22
 <img src="/ai-blog-mongolia/assets/2026-03-22-comic.png" alt="モンゴルのボーズとホーショール" width="350" />
 
 <audio controls>
-  <source src="/ai-blog-mongolia/assets/2026-03-22-sound.wav" type="audio/wav">
+  <source src="/ai-blog-mongolia/assets/2026-03-22-sound.mp3" type="audio/mpeg">
   お使いのブラウザはオーディオ要素をサポートしていません。
 </audio>
 
