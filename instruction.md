@@ -47,7 +47,7 @@ published: false
   <img src="/ai-blog-mongolia/assets/2026-03-19-comic.png" alt="モンゴルの大草原" width="350" />
 
   <audio controls>
-    <source src="/ai-blog-mongolia/assets/2026-03-19-sound.wav" type="audio/wav">
+    <source src="/ai-blog-mongolia/assets/2026-03-19-sound.mp3" type="audio/mp3">
     お使いのブラウザはオーディオ要素をサポートしていません。
   </audio>
   ```
@@ -74,8 +74,8 @@ published: false
       facebook.md
       instagram.md
   ```
-- 1つ目の投稿のハッシュタグは上限3つにしてください。
-- スレッド形式になるように複数の投稿を記述してください。記事へのリンクはリプライに記述してください。
+- 1つの投稿にまとめること（スレッド・複数投稿不要）。
+- 記事へのリンクURLと本文末尾にハッシュタグを記述すること。ハッシュタグは上限3つ。
 - 記事へのリンクURLは `https://hfujikawa77.github.io/ai-blog-mongolia/YYYY/MM/DD/title.html` の形式で記述してください。
   - 例: `https://hfujikawa77.github.io/ai-blog-mongolia/2026/03/20/ger-camp.html`
   - `title` 部分は `_posts/yyyy-mm-dd-title.md` のファイル名から日付を除いた部分です。

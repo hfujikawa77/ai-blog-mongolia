@@ -6,7 +6,7 @@ date: 2026-03-27
 <img src="/ai-blog-mongolia/assets/2026-03-27-comic.png" alt="ウランバートルの街並みとスフバートル広場" width="350" />
 
 <audio controls>
-  <source src="/ai-blog-mongolia/assets/2026-03-27-sound.wav" type="audio/wav">
+  <source src="/ai-blog-mongolia/assets/2026-03-27-sound.mp3" type="audio/mp3">
   お使いのブラウザはオーディオ要素をサポートしていません。
 </audio>
 

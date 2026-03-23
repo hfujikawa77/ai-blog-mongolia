@@ -6,7 +6,7 @@ date: 2026-03-25
 <img src="/ai-blog-mongolia/assets/2026-03-25-comic.png" alt="チンギス・ハーンと世界最大の帝国" width="350" />
 
 <audio controls>
-  <source src="/ai-blog-mongolia/assets/2026-03-25-sound.wav" type="audio/wav">
+  <source src="/ai-blog-mongolia/assets/2026-03-25-sound.mp3" type="audio/mp3">
   お使いのブラウザはオーディオ要素をサポートしていません。
 </audio>
 

@@ -6,7 +6,7 @@ date: 2026-03-21
 <img src="/ai-blog-mongolia/assets/2026-03-21-comic.jpg" alt="モンゴルの草原で馬に乗る子ども" width="350" />
 
 <audio controls>
-  <source src="/ai-blog-mongolia/assets/2026-03-21-sound.mp3" type="audio/wav">
+  <source src="/ai-blog-mongolia/assets/2026-03-21-sound.mp3" type="audio/mp3">
   お使いのブラウザはオーディオ要素をサポートしていません。
 </audio>
 

@@ -6,7 +6,7 @@ date: 2026-03-26
 <img src="/ai-blog-mongolia/assets/2026-03-26-comic.png" alt="モンゴル相撲ブフの力士" width="350" />
 
 <audio controls>
-  <source src="/ai-blog-mongolia/assets/2026-03-26-sound.wav" type="audio/wav">
+  <source src="/ai-blog-mongolia/assets/2026-03-26-sound.mp3" type="audio/mp3">
   お使いのブラウザはオーディオ要素をサポートしていません。
 </audio>
 

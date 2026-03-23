@@ -6,7 +6,7 @@ date: 2026-03-24
 <img src="/ai-blog-mongolia/assets/2026-03-24-comic.png" alt="ゴビ砂漠のフタコブラクダ" width="350" />
 
 <audio controls>
-  <source src="/ai-blog-mongolia/assets/2026-03-24-sound.wav" type="audio/wav">
+  <source src="/ai-blog-mongolia/assets/2026-03-24-sound.mp3" type="audio/mp3">
   お使いのブラウザはオーディオ要素をサポートしていません。
 </audio>
 
