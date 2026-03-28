@@ -3,7 +3,9 @@ title: "3/28号：鷲使いになりたい！鷹匠体験"
 date: 2026-03-28
 ---
 
-<img src="/ai-blog-mongolia/assets/2026-03-28-comic.png" alt="腕に大鷲を乗せるカザフ族の鷲使い" width="350" />
+<a href="/ai-blog-mongolia/assets/2026-03-28-comic.png" target="_blank">
+  <img src="/ai-blog-mongolia/assets/2026-03-28-comic.png" alt="腕に大鷲を乗せるカザフ族の鷲使い" style="max-width:100%;width:100%;height:auto;display:block;" />
+</a>
 
 <audio controls>
   <source src="/ai-blog-mongolia/assets/2026-03-28-sound.mp3" type="audio/mp3">

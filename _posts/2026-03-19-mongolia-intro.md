@@ -3,7 +3,9 @@ title: "3/19号：モンゴルってどんな国？"
 date: 2026-03-19
 ---
 
-<img src="/ai-blog-mongolia/assets/2026-03-19-comic.jpg" alt="モンゴルの大草原と遊牧民のゲル" width="350" />
+<a href="/ai-blog-mongolia/assets/2026-03-19-comic.jpg" target="_blank">
+  <img src="/ai-blog-mongolia/assets/2026-03-19-comic.jpg" alt="モンゴルの大草原と遊牧民のゲル" style="max-width:100%;width:100%;height:auto;display:block;" />
+</a>
 
 <audio controls>
   <source src="/ai-blog-mongolia/assets/2026-03-19-sound.mp3" type="audio/mp3">

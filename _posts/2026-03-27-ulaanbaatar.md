@@ -3,7 +3,9 @@ title: "3/27号：ウランバートルを探検しよう！"
 date: 2026-03-27
 ---
 
-<img src="/ai-blog-mongolia/assets/2026-03-27-comic.png" alt="ウランバートルの街並みとスフバートル広場" width="350" />
+<a href="/ai-blog-mongolia/assets/2026-03-27-comic.png" target="_blank">
+  <img src="/ai-blog-mongolia/assets/2026-03-27-comic.png" alt="ウランバートルの街並みとスフバートル広場" style="max-width:100%;width:100%;height:auto;display:block;" />
+</a>
 
 <audio controls>
   <source src="/ai-blog-mongolia/assets/2026-03-27-sound.mp3" type="audio/mp3">

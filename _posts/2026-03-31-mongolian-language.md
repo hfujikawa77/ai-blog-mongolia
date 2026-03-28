@@ -3,7 +3,9 @@ title: "3/31号：モンゴル語でしゃべってみよう！"
 date: 2026-03-31
 ---
 
-<img src="/ai-blog-mongolia/assets/2026-03-31-comic.png" alt="キリル文字とあいさつを練習する子どもたち" width="350" />
+<a href="/ai-blog-mongolia/assets/2026-03-31-comic.png" target="_blank">
+  <img src="/ai-blog-mongolia/assets/2026-03-31-comic.png" alt="キリル文字とあいさつを練習する子どもたち" style="max-width:100%;width:100%;height:auto;display:block;" />
+</a>
 
 <audio controls>
   <source src="/ai-blog-mongolia/assets/2026-03-31-sound.mp3" type="audio/mp3">

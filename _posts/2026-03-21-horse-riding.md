@@ -3,7 +3,9 @@ title: "3/21号：馬に乗って草原を走ろう！"
 date: 2026-03-21
 ---
 
-<img src="/ai-blog-mongolia/assets/2026-03-21-comic.jpg" alt="モンゴルの草原で馬に乗る子ども" width="350" />
+<a href="/ai-blog-mongolia/assets/2026-03-21-comic.jpg" target="_blank">
+  <img src="/ai-blog-mongolia/assets/2026-03-21-comic.jpg" alt="モンゴルの草原で馬に乗る子ども" style="max-width:100%;width:100%;height:auto;display:block;" />
+</a>
 
 <audio controls>
   <source src="/ai-blog-mongolia/assets/2026-03-21-sound.mp3" type="audio/mp3">

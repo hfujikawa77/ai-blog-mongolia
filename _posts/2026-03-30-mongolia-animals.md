@@ -3,7 +3,9 @@ title: "3/30号：モンゴルの動物大集合！"
 date: 2026-03-30
 ---
 
-<img src="/ai-blog-mongolia/assets/2026-03-30-comic.png" alt="草原に集まるモンゴルの動物たち" width="350" />
+<a href="/ai-blog-mongolia/assets/2026-03-30-comic.png" target="_blank">
+  <img src="/ai-blog-mongolia/assets/2026-03-30-comic.png" alt="草原に集まるモンゴルの動物たち" style="max-width:100%;width:100%;height:auto;display:block;" />
+</a>
 
 <audio controls>
   <source src="/ai-blog-mongolia/assets/2026-03-30-sound.mp3" type="audio/mp3">

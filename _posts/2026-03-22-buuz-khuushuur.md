@@ -3,7 +3,9 @@ title: "3/22号：ボーズ＆ホーショールを食べよう！"
 date: 2026-03-22
 ---
 
-<img src="/ai-blog-mongolia/assets/2026-03-22-comic.png" alt="モンゴルのボーズとホーショール" width="350" />
+<a href="/ai-blog-mongolia/assets/2026-03-22-comic.png" target="_blank">
+  <img src="/ai-blog-mongolia/assets/2026-03-22-comic.png" alt="モンゴルのボーズとホーショール" style="max-width:100%;width:100%;height:auto;display:block;" />
+</a>
 
 <audio controls>
   <source src="/ai-blog-mongolia/assets/2026-03-22-sound.mp3" type="audio/mpeg">
