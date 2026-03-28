@@ -18,6 +18,10 @@ DATE=${DATE:-$(date +%Y-%m-%d)}
 
 echo "対象日付: $DATE (force=$FORCE)"
 
+# --- [0/3] git pull: 最新化 ---
+echo "--- [0/3] git pull: リポジトリを最新化 ---"
+git -C "$SCRIPT_DIR/.." pull
+
 # --- [1/3] Claude: 記事生成 ---
 ARTICLE_FILE=$(ls "$SCRIPT_DIR/../_posts/${DATE}-"*.md 2>/dev/null | head -1)
 if [ -n "$ARTICLE_FILE" ] && [ "$FORCE" = false ]; then
